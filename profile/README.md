@@ -7,4 +7,4 @@
 <!--🌈 Contribution guidelines - how can the community get involved? -->
 👩‍💻 Useful resources - The [website](https://vegaup.github.io/website)
 
-🍿 Fun facts - Beans and toast
+🍿 Fun facts - What we eat for breakfast:  B e a n s  a n d  t o a s t
