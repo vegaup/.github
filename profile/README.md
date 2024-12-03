@@ -20,7 +20,7 @@ Our main project is a Debian configure script that automates:
 
 This script helps streamline the process of getting a fresh Debian installation ready for development and everyday use.
 
-📚 Check out our [website](https://vegaup.github.io/website) to use the script.
+📚 Check out our [website](https://vegaup.github.io) to use the script.
 
 ### KittyKanvas
 
