@@ -8,11 +8,14 @@
 
 **What We Do**
 
-We develop tools to enhance your Debian experience:
+We develop tools and software to enhance your Linux experience:
+
+### Desktop environment and Tiling window manager
+Our main project is a new lightweight desktop environment that aims to feel different.
 
 ### Debian Configure Script
 
-Our main project is a Debian configure script that automates:
+Another project is a Debian configure script that automates:
 
 - Updating Debian packages
 - Installing popular applications  
