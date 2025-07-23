@@ -2,7 +2,7 @@
 
 **About Us**
 
-🐱 We love cats and Debian
+🐱 We love cats, Debian and Linux
 
 🍿 Fun fact: We eat B e a n s A n d T o a s t for breakfast
 
